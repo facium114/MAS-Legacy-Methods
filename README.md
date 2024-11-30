@@ -1,6 +1,6 @@
 # MAS-Legacy-Methods
 
-This repo contains HWID methods which are no longer being used in latest version of MAS.
+本仓库包含不在最新版 MAS 中使用的HWID 方法。
 
-For further details on these methods, please check, 
+更多信息参见
 https://massgrave.dev/hwid.html
